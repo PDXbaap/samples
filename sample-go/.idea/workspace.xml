@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0beef57-adfa-46a2-b99a-467d45cc4a91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client/java/driver" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectId" id="22zarPH6igYg5CSN9Ou3R8rGBo6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client_Sample/go/diverevent" />
+      <recent name="$PROJECT_DIR$/client_Sample/go/chaincode" />
+      <recent name="$PROJECT_DIR$/client_Sample/go/os" />
+      <recent name="$PROJECT_DIR$/client_Sample/go" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$/contract/ewasm" />
+      <recent name="$PROJECT_DIR$/contract/solidity" />
+      <recent name="$PROJECT_DIR$/client/go/utilities" />
+      <recent name="$PROJECT_DIR$/client/go/event_listening" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build client_Sample/chaincode">
+    <configuration name="go build client_Sample/chaincode" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Sample" />
+      <working_directory value="$PROJECT_DIR$/client_Sample/go" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/client_Sample/go/chaincode/chaincode_baapDeploy.go" />
+      <package value="client_Sample/chaincode" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build client_Sample/diverevent (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Sample" />
+      <working_directory value="$PROJECT_DIR$/client_Sample/go" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/client_Sample/go/diverevent/event_sync.go" />
+      <package value="client_Sample/diverevent" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build client_Sample/diverevent" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Sample" />
+      <working_directory value="$PROJECT_DIR$/client_Sample/go" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/client_Sample/go/diverevent/event_pending.go" />
+      <package value="client_Sample/diverevent" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build client_Sample/os" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Sample" />
+      <working_directory value="$PROJECT_DIR$/client_Sample/go" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/client_Sample/go/os/DynNativeContract_deploy.go" />
+      <package value="client_Sample/os" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build solidity_deploy.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Sample" />
+      <working_directory value="$PROJECT_DIR$/client_Sample/go" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/client_Sample/go/solidity/solidity_deploy.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build client_Sample/chaincode" />
+        <item itemvalue="Go Build.go build client_Sample/diverevent (1)" />
+        <item itemvalue="Go Build.go build client_Sample/diverevent" />
+        <item itemvalue="Go Build.go build solidity_deploy.go" />
+        <item itemvalue="Go Build.go build client_Sample/os" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io,direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="112" key="#Go_Modules_(vgo)" timestamp="1640843117191">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="112" key="#Go_Modules_(vgo)/0.0.1440.900@0.0.1440.900" timestamp="1640843117191" />
+    <state x="427" y="150" key="#go_build_client_Sample/chaincode" timestamp="1641389478833">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="150" key="#go_build_client_Sample/chaincode/0.0.1440.900@0.0.1440.900" timestamp="1641389478833" />
+    <state x="427" y="150" key="#go_build_client_Sample/diverevent" timestamp="1641279916345">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="150" key="#go_build_client_Sample/diverevent/0.0.1440.900@0.0.1440.900" timestamp="1641279916345" />
+    <state x="427" y="150" key="#go_build_client_Sample/diverevent_(1)" timestamp="1641280876973">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="150" key="#go_build_client_Sample/diverevent_(1)/0.0.1440.900@0.0.1440.900" timestamp="1641280876973" />
+    <state x="427" y="150" key="#go_build_client_Sample/os" timestamp="1640921339992">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="150" key="#go_build_client_Sample/os/0.0.1440.900@0.0.1440.900" timestamp="1640921339992" />
+    <state x="427" y="150" key="#go_build_client_Sample/os_(1)" timestamp="1640921599789">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="150" key="#go_build_client_Sample/os_(1)/0.0.1440.900@0.0.1440.900" timestamp="1640921599789" />
+    <state x="427" y="150" key="#go_build_client_Sample/os_(2)" timestamp="1640921768495">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="150" key="#go_build_client_Sample/os_(2)/0.0.1440.900@0.0.1440.900" timestamp="1640921768495" />
+    <state x="427" y="150" key="#go_build_client_Sample/solidity" timestamp="1640915882724">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="150" key="#go_build_client_Sample/solidity/0.0.1440.900@0.0.1440.900" timestamp="1640915882724" />
+    <state x="427" y="150" key="#go_build_main.go/chaincode" timestamp="1640862223454">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="150" key="#go_build_main.go/chaincode/0.0.1440.900@0.0.1440.900" timestamp="1640862223454" />
+    <state x="427" y="150" key="#go_build_main.go/solidity" timestamp="1640862701594">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="150" key="#go_build_main.go/solidity/0.0.1440.900@0.0.1440.900" timestamp="1640862701594" />
+    <state x="427" y="150" key="#go_build_main.go/wasm" timestamp="1640852720927">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="150" key="#go_build_main.go/wasm/0.0.1440.900@0.0.1440.900" timestamp="1640852720927" />
+    <state x="427" y="150" key="#go_build_main.go/wasm_(1)" timestamp="1640853273841">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="150" key="#go_build_main.go/wasm_(1)/0.0.1440.900@0.0.1440.900" timestamp="1640853273841" />
+    <state x="427" y="150" key="#go_build_main.go/wasm_(2)" timestamp="1640853319176">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="150" key="#go_build_main.go/wasm_(2)/0.0.1440.900@0.0.1440.900" timestamp="1640853319176" />
+    <state x="266" y="45" key="CommitChangelistDialog2" timestamp="1641384856523">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="266" y="45" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1641384856523" />
+    <state width="1398" height="312" key="GridCell.Tab.0.bottom" timestamp="1641435651350">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state width="1398" height="233" key="GridCell.Tab.0.bottom/0.0.1440.843@0.0.1440.843" timestamp="1641281169531" />
+    <state width="1398" height="312" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1641290465768" />
+    <state width="1398" height="312" key="GridCell.Tab.0.bottom/0.25.1440.818@0.25.1440.818" timestamp="1641435651350" />
+    <state width="1398" height="312" key="GridCell.Tab.0.center" timestamp="1641435651347">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state width="1398" height="312" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1641290465766" />
+    <state width="1398" height="312" key="GridCell.Tab.0.center/0.25.1440.818@0.25.1440.818" timestamp="1641435651347" />
+    <state width="1398" height="312" key="GridCell.Tab.0.left" timestamp="1641435651345">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state width="1398" height="312" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1641290465765" />
+    <state width="1398" height="312" key="GridCell.Tab.0.left/0.25.1440.818@0.25.1440.818" timestamp="1641435651345" />
+    <state width="1398" height="312" key="GridCell.Tab.0.right" timestamp="1641435651348">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state width="1398" height="233" key="GridCell.Tab.0.right/0.0.1440.843@0.0.1440.843" timestamp="1641281169529" />
+    <state width="1398" height="312" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1641290465767" />
+    <state width="1398" height="312" key="GridCell.Tab.0.right/0.25.1440.818@0.25.1440.818" timestamp="1641435651348" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1641459615761">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1641459615761" />
+    <state x="139" y="43" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1641387277398">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="139" y="43" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1641387277398" />
+    <state x="640" y="267" width="800" height="486" key="find.popup" timestamp="1641459775939">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="640" y="267" width="800" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1641459775939" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1640858110011">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1640858110011" />
+  </component>
+</project>

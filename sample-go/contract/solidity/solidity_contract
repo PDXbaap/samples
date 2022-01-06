@@ -1,0 +1,35 @@
+pragma solidity ^0.5.0;
+
+contract Solidity_Sample {
+   
+   mapping(bytes => bytes)storageContent;
+   address _ower;
+   
+   event Put(address indexed sender,bytes key,bytes value);
+   event Destroy(address indexed sender);
+   
+   constructor() public   {
+     _ower = msg.sender;
+    }
+    
+    modifier only_ower(){
+      require(_ower == msg.sender,"You are not the owner of this");
+      _;
+    }
+    
+    function put(bytes memory key,bytes memory value) public  {
+      storageContent[key] = value;
+      emit Put(msg.sender,key,value);
+    }
+
+    function get(bytes memory key) public view returns(bytes memory value){
+       value = storageContent[key];
+       return value;
+    }
+
+    function destroy() public only_ower{
+        selfdestruct(msg.sender);
+        emit Destroy(msg.sender);
+    }
+}
+
