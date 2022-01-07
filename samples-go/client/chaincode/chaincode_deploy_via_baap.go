@@ -23,7 +23,7 @@ const (
 )
 
 func main() {
-	host := "127.0.0.1:8545"
+	host := "http://127.0.0.1:8545"
 	client, err := utilities.ToolConnect(host)
 	if err != nil {
 		fmt.Printf(err.Error())
