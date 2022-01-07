@@ -1,2 +1,2 @@
 # baap-samples
-PDX public blockchain ecosystem manuals
+PDX utopia & baap sample applications 
